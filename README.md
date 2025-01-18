@@ -1,4 +1,9 @@
 ## Hi there 👋, I'm Sanjay Malla
+<h3 align="center">A passionate game dev enthusiast from Nepal</h3>
+- 🌱 I’m currently learning **Unity game engine**
+
+- 📫 How to reach me **sanjaymalla344@gmail.com**
+
 
 <!--
 **sanjaymalla/sanjaymalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
